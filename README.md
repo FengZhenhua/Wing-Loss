@@ -25,7 +25,7 @@ If you use this software, please cite the following publication:
 This soft ware is released under the Apache 2.0 license.
 
 ## Installation
-1. Download and install [MatConvNet](http://www.vlfeat.org/matconvnet/) to '/pathtoMatConvNet/'.
+1. Download and install [MatConvNet](http://www.vlfeat.org/matconvnet/) to `/pathtoMatConvNet/`.
 
 ## Contact
 
