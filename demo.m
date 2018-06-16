@@ -3,7 +3,7 @@ clear
 clc
 
 % add MatConNet toolbox
-run /vol/vssp/FaceAnnotation2D/toolbox/MatConvNet/2017a/1.0-beta25/matlab/vl_setupnn.m;
+run pathToMatConvNet/matlab/vl_setupnn.m;
 
 % set gpuOn to your GPU index, set the value to 0 for CPU mode
 gpuOn = 1;

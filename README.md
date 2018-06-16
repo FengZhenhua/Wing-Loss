@@ -11,6 +11,7 @@ If you use this software, please cite the following publication:
   author={Feng, Zhen-Hua and Kittler, Josef and Awais, Muhammad and Huber, Patrik and Wu, Xiao-Jun},
   booktitle={Computer Vision and Pattern Recognition (CVPR), 2018 IEEE Conference on},
   year={2018},
+  pages ={2235-2245},
   organization={IEEE}
 }
 ```
@@ -18,6 +19,7 @@ If you use this software, please cite the following publication:
 * You can download the paper from my [ResearchGate](https://www.researchgate.net/publication/321180616_Wing_Loss_for_Robust_Facial_Landmark_Localisation_with_Convolutional_Neural_Networks).
 
 ## News
+* 2018-06-16: Add the demo code as well as two pretrained CNN6 models on the AFLW dataset with 19 facial landmarks
 * 2018-03-29: The pre-trained model and test code are coming soon.
 
 ## License
