@@ -22,12 +22,29 @@ If you use this software, please cite the following publication:
 * 2018-06-16: Add the demo code as well as two pretrained CNN6 models on the AFLW dataset with 19 facial landmarks
 * 2018-03-29: The pre-trained model and test code are coming soon.
 
+## Pre-trained models
+
+### Uploaded
+
+* cnn6_v0_aflw: pre-trained CNN-6 model on the AFLW-FULL dataset, using the CNN6 architecture as shown in the paper
+* cnn6_v1_aflw: similar to cnn6_v0 but with doubled filter sizes, which performs better than the original CNN6 but a little bit slower
+
+### To be uploaded
+
+* cnn6_v0_300w
+* cnn6_v1_300w
+* resnet50_pre_aflw
+* resnet50_scratch_aflw
+* resnet50_scratch_300w
+
+## Installation
+1. Download and install [MatConvNet](http://www.vlfeat.org/matconvnet/) to `pathToMatConvNet/`.
+2. Modify the path to MatConvNet in demo.m and run the script
+
 ## License
 
 This soft ware is released under the Apache 2.0 license.
 
-## Installation
-1. Download and install [MatConvNet](http://www.vlfeat.org/matconvnet/) to `/pathtoMatConvNet/`.
 
 ## Contact
 
