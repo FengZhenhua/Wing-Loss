@@ -31,10 +31,9 @@ If you use this software, please cite the following publication:
 
 ### To be uploaded
 
-* cnn6_v0_300w
-* cnn6_v1_300w
 * resnet50_pre_aflw
 * resnet50_scratch_aflw
+* resnet50_pre_300w
 * resnet50_scratch_300w
 
 ## Installation
