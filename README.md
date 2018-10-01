@@ -23,6 +23,7 @@ If you use this software, please cite the following publication:
 * 2018-03-29: The pre-trained model and test code are coming soon.
 
 ## New Results on the [COFW](http://www.vision.caltech.edu/xpburgos/ICCV13/) and [WFLW](https://wywu.github.io/projects/LAB/WFLW.html) datasets
+
 * Results on COFW
 
 | Method              | NME(%) | Failure Rate(%) |
@@ -31,6 +32,7 @@ If you use this software, please cite the following publication:
 | ResNet50 (Wing+PDB) | 5.07   | 3.16            |
 
 * Results on WFLW
+
 Coming soon!
 
 ## Pre-trained models
