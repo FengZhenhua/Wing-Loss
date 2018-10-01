@@ -24,6 +24,11 @@ If you use this software, please cite the following publication:
 
 ## New Results on the [COFW](http://www.vision.caltech.edu/xpburgos/ICCV13/) and [WFLW](https://wywu.github.io/projects/LAB/WFLW.html) datasets
 * I will update the results on those two datasets as soon as possible.
+* Results on COFW
+| Method        | NME(%)        | Failure Rate(%)|
+| ------------- |:-------------:| --------------:|
+| CNN6 (Wing+PDB)      | 5.44 | 3.75  |
+| ResNet50 (Wing+PDB)  | 5.07 | 3.16  |
 
 ## Pre-trained models
 
