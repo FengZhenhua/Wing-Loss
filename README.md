@@ -22,6 +22,9 @@ If you use this software, please cite the following publication:
 * 2018-06-16: Add the demo code as well as two pretrained CNN6 models on the AFLW dataset with 19 facial landmarks
 * 2018-03-29: The pre-trained model and test code are coming soon.
 
+## New Results on the [COFW](http://www.vision.caltech.edu/xpburgos/ICCV13/) and [WFLW](https://wywu.github.io/projects/LAB/WFLW.html) datasets
+* I will update the results on those two datasets as soon as possible.
+
 ## Pre-trained models
 
 ### Uploaded
