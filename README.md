@@ -41,6 +41,7 @@ If you use this software, please cite the following publication:
 |                  | DVLN                | 6.08    | 11.54  | 6.78       | 5.73         | 5.98   | 7.33      | 6.88   |
 |                  | LAB                 | 5.27    | 10.24  | 5.51       | 5.23         | 5.15   | 6.79      | 6.32   |
 |                  | **CNN6 (Wing+PDB)** |         |        |            |              |        |           |        |
+|                  | **CNN7 (Wing+PDB)** |         |        |            |              |        |           |        |
 |              | **ResNet50 (Wing+PDB)** |         |        |            |              |        |           |        |
 | Failure Rate (%) | ESR                 | 35.24   | 90.18  | 42.04      | 30.80        | 38.84  | 47.28     | 41.40  |
 |                  | SDM                 | 29.40   | 84.36  | 33.44      | 26.22        | 27.67  | 41.85     | 35.32  |
@@ -48,6 +49,7 @@ If you use this software, please cite the following publication:
 |                  | DVLN                | 10.84   | 46.93  | 11.15      | 7.31         | 11.65  | 16.30     | 13.71  |
 |                  | LAB                 | 7.56    | 28.83  | 6.37       | 6.73         | 7.77   | 13.72     | 10.74  |
 |                  | **CNN6 (Wing+PDB)** |         |        |            |              |        |           |        |
+|                  | **CNN7 (Wing+PDB)** |         |        |            |              |        |           |        |
 |              | **ResNet50 (Wing+PDB)** |         |        |            |              |        |           |        |
 | AUC              | ESR                 | 0.2774  | 0.0177 | 0.1981     | 0.2953       | 0.2485 | 0.1946    | 0.2204 |
 |                  | SDM                 | 0.3002  | 0.0226 | 0.2293     | 0.3237       | 0.3125 | 0.2060    | 0.2398 |
@@ -55,6 +57,7 @@ If you use this software, please cite the following publication:
 |                  | DVLN                | 0.4551  | 0.1474 | 0.3889     | 0.4743       | 0.4494 | 0.3794    | 0.3973 |
 |                  | LAB                 | 0.5323  | 0.2345 | 0.4951     | 0.5433       | 0.5394 | 0.4490    | 0.4630 |
 |                  | **CNN6 (Wing+PDB)** |         |        |            |              |        |           |        |
+|                  | **CNN7 (Wing+PDB)** |         |        |            |              |        |           |        |
 |             | **ResNet50 (Wing+PDB)**  |         |        |            |              |        |           |        |
 
 
