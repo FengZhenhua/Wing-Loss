@@ -56,7 +56,6 @@ If you use this software, please cite the following publication:
 | AUC              | LAB                 | 0.5323  | 0.2345 | 0.4951     | 0.5433       | 0.5394 | 0.4490    | 0.4630 |
 | AUC              | CNN6 (Wing+PDB)     |         |        |            |              |        |           |        |
 | AUC              | ResNet50 (Wing+PDB) |         |        |            |              |        |           |        |
-Coming soon!
 
 ## Pre-trained models
 
