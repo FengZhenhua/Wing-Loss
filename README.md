@@ -33,7 +33,7 @@ If you use this software, please cite the following publication:
 
 * Results on WFLW
 
-| Metric           | Method              | Testset | Pose   | Expression | Illumination | Makeup | Occlusion | Blur   |
+| Metric           | Method              | **FullSet** | Pose   | Expression | Illumination | Makeup | Occlusion | Blur   |
 |------------------|---------------------|---------|--------|------------|--------------|--------|-----------|--------|
 | NME(%)           | ESR                 | 11.13   | 25.88  | 11.47      | 10.49        | 11.05  | 13.75     | 12.20  |
 |                  | SDM                 | 10.29   | 24.10  | 11.45      | 9.32         | 9.38   | 13.03     | 11.28  |
