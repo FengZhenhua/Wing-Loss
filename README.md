@@ -62,13 +62,6 @@ If you use this software, please cite the following publication:
 * cnn6_v0_aflw: pre-trained CNN-6 model on the AFLW-FULL dataset, using the CNN6 architecture as shown in the paper
 * cnn6_v1_aflw: similar to cnn6_v0 but with doubled filter sizes, which performs better than the original CNN6 but a little bit slower
 
-### To be uploaded
-
-* resnet50_pre_aflw
-* resnet50_scratch_aflw
-* resnet50_pre_300w
-* resnet50_scratch_300w
-
 ## Installation
 1. Download and install [MatConvNet](http://www.vlfeat.org/matconvnet/) to `pathToMatConvNet/`.
 2. Modify the path to MatConvNet in demo.m and run the script
